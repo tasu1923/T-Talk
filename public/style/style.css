@@ -43,6 +43,9 @@ main header button {
   outline: none;
   display: none;
 }
+main header button img {
+  width: 35px;
+}
 main div.container {
   background-color: #7E878c;
   padding: 20px;
